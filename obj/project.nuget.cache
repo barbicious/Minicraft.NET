@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "An71onwaYQA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\colten\\RiderProjects\\Minicraft.NET\\Minicraft.NET\\Minicraft.NET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\colten\\.nuget\\packages\\sdl3-cs\\3.4.16.1\\sdl3-cs.3.4.16.1.nupkg.sha512",
+    "C:\\Users\\colten\\.nuget\\packages\\sdl3-cs.windows\\3.4.16\\sdl3-cs.windows.3.4.16.nupkg.sha512",
+    "C:\\Users\\colten\\.nuget\\packages\\stbimagesharp\\2.30.16\\stbimagesharp.2.30.16.nupkg.sha512"
+  ],
+  "logs": []
+}

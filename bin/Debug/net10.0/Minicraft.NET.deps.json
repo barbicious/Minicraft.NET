@@ -1,0 +1,84 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Minicraft.NET/1.0.0": {
+        "dependencies": {
+          "SDL3-CS": "3.4.16.1",
+          "SDL3-CS.Windows": "3.4.16",
+          "StbImageSharp": "2.30.16"
+        },
+        "runtime": {
+          "Minicraft.NET.dll": {}
+        }
+      },
+      "SDL3-CS/3.4.16.1": {
+        "runtime": {
+          "lib/net10.0/SDL3-CS.dll": {
+            "assemblyVersion": "3.4.16.0",
+            "fileVersion": "3.4.16.0"
+          }
+        }
+      },
+      "SDL3-CS.Windows/3.4.16": {
+        "runtimeTargets": {
+          "runtimes/win-arm64/native/SDL3.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "3.4.16.0"
+          },
+          "runtimes/win-x64/native/SDL3.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "3.4.16.0"
+          },
+          "runtimes/win-x86/native/SDL3.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "3.4.16.0"
+          }
+        }
+      },
+      "StbImageSharp/2.30.16": {
+        "runtime": {
+          "lib/net8.0/StbImageSharp.dll": {
+            "assemblyVersion": "2.30.16.0",
+            "fileVersion": "2.30.16.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Minicraft.NET/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SDL3-CS/3.4.16.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MnTjNrb7yHYSX06mpBut0XCVXxjBAAhwmLHjYbf1rxnh/ur2gZkQRifkVrrL2HjXQgyxgkA9PLxZUFFzevXOWA==",
+      "path": "sdl3-cs/3.4.16.1",
+      "hashPath": "sdl3-cs.3.4.16.1.nupkg.sha512"
+    },
+    "SDL3-CS.Windows/3.4.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fz7LopbxaH/VI2XgrxTKPSK6oPN/su/OdubKa7aCmu/dP7IWhHrqGEirGmoPy5XgRf6GZyNJaBsNi7S5NKkuZw==",
+      "path": "sdl3-cs.windows/3.4.16",
+      "hashPath": "sdl3-cs.windows.3.4.16.nupkg.sha512"
+    },
+    "StbImageSharp/2.30.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qg1i+NHihXVKLKYacGKrauhSQIGL31eBWcTC4Vc7jnGmBFj87LkRuCdXB5aDZisWMRnB6x2mcfwYXQxMWEG/lw==",
+      "path": "stbimagesharp/2.30.16",
+      "hashPath": "stbimagesharp.2.30.16.nupkg.sha512"
+    }
+  }
+}
